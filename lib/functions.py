@@ -272,7 +272,7 @@ def ReplaceMissingPackets(node):
         #pkt[)]=node.pkts["pkt"][i]
     return pkt
 
-
+#Import from pings files to a dataframe
 def import_nodes_Cooja_2(directory,tracemask,node_defaults):
     #print(directory)
     #print(tracemask)
@@ -342,7 +342,7 @@ def import_nodes_Cooja_2(directory,tracemask,node_defaults):
 
     return nodeList
 
-
+#calls import nodes cooja_2
 def import_Cooja2(df,directory):
     data=[]
     node_defaults = {
@@ -1021,7 +1021,9 @@ def results_3_classes(trace_stats,network_stats,features_to_drop,net_features_to
     return results,net_results
 
 
-
+#Run all tests
+#Uses stats_per_node as input
+#Output results_2_classes_node, results_2_classes_network , results_3_classes_node, results_3_classes_network
 def run_all(directory):
     """
     df = pd.read_csv(directory + "/traces/traces.csv", sep=',', encoding='utf-8')

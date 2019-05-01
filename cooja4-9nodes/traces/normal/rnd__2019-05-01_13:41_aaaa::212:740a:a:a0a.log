@@ -1,0 +1,31 @@
+PING aaaa::212:740a:a:a0a(aaaa::212:740a:a:a0a) 56 data bytes
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=6 ttl=60 time=1803 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=8 ttl=60 time=2603 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=10 ttl=60 time=1007 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=11 ttl=60 time=1717 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=12 ttl=60 time=2036 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=13 ttl=60 time=1432 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=14 ttl=60 time=999 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=15 ttl=60 time=1588 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=16 ttl=60 time=1651 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=20 ttl=60 time=1850 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=29 ttl=60 time=2811 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=32 ttl=60 time=3006 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=44 ttl=60 time=3741 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=48 ttl=60 time=3580 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=49 ttl=60 time=3521 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=52 ttl=60 time=1657 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=53 ttl=60 time=3980 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=61 ttl=60 time=1528 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=93 ttl=60 time=1716 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=94 ttl=60 time=1498 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=104 ttl=60 time=9232 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=105 ttl=60 time=9732 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=114 ttl=60 time=9316 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=148 ttl=60 time=6801 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=160 ttl=60 time=2774 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=174 ttl=60 time=3743 ms
+
+--- aaaa::212:740a:a:a0a ping statistics ---
+200 packets transmitted, 26 received, 87% packet loss, time 995381ms
+rtt min/avg/max/mdev = 999.272/3282.086/9732.851/2532.931 ms, pipe 2

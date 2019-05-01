@@ -1,0 +1,31 @@
+PING aaaa::212:7402:2:202(aaaa::212:7402:2:202) 56 data bytes
+64 bytes from aaaa::212:7402:2:202: icmp_seq=11 ttl=62 time=2704 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=16 ttl=62 time=2915 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=24 ttl=62 time=3354 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=31 ttl=62 time=2641 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=35 ttl=61 time=2418 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=37 ttl=62 time=3781 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=41 ttl=62 time=3228 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=43 ttl=62 time=2232 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=44 ttl=62 time=2268 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=45 ttl=62 time=1269 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=53 ttl=62 time=652 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=54 ttl=62 time=2142 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=58 ttl=62 time=1530 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=64 ttl=62 time=1957 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=67 ttl=62 time=2571 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=72 ttl=62 time=2800 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=172 ttl=60 time=2029 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=186 ttl=60 time=4950 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=187 ttl=60 time=1599 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=190 ttl=60 time=662 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=192 ttl=60 time=2724 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=196 ttl=60 time=2508 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=197 ttl=60 time=822 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=198 ttl=60 time=827 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=199 ttl=60 time=1150 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=200 ttl=60 time=977 ms
+
+--- aaaa::212:7402:2:202 ping statistics ---
+200 packets transmitted, 26 received, 87% packet loss, time 995359ms
+rtt min/avg/max/mdev = 652.481/2181.676/4950.885/1023.463 ms
