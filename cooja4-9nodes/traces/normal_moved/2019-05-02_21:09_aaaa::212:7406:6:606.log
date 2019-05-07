@@ -1,0 +1,11 @@
+PING aaaa::212:7406:6:606(aaaa::212:7406:6:606) 56 data bytes
+64 bytes from aaaa::212:7406:6:606: icmp_seq=21 ttl=62 time=1723 ms
+64 bytes from aaaa::212:7406:6:606: icmp_seq=23 ttl=62 time=2966 ms
+64 bytes from aaaa::212:7406:6:606: icmp_seq=68 ttl=61 time=1816 ms
+64 bytes from aaaa::212:7406:6:606: icmp_seq=69 ttl=61 time=4112 ms
+64 bytes from aaaa::212:7406:6:606: icmp_seq=75 ttl=61 time=1884 ms
+64 bytes from aaaa::212:7406:6:606: icmp_seq=151 ttl=62 time=7190 ms
+
+--- aaaa::212:7406:6:606 ping statistics ---
+200 packets transmitted, 6 received, 97% packet loss, time 995430ms
+rtt min/avg/max/mdev = 1723.240/3282.477/7190.864/1940.771 ms, pipe 2

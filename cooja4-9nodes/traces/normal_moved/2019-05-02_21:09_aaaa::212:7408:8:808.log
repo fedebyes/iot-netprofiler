@@ -1,0 +1,6 @@
+PING aaaa::212:7408:8:808(aaaa::212:7408:8:808) 56 data bytes
+64 bytes from aaaa::212:7408:8:808: icmp_seq=21 ttl=60 time=6075 ms
+
+--- aaaa::212:7408:8:808 ping statistics ---
+200 packets transmitted, 1 received, 99% packet loss, time 995410ms
+rtt min/avg/max/mdev = 6075.138/6075.138/6075.138/0.000 ms, pipe 2

@@ -1,0 +1,15 @@
+PING aaaa::212:7403:3:303(aaaa::212:7403:3:303) 56 data bytes
+64 bytes from aaaa::212:7403:3:303: icmp_seq=6 ttl=62 time=2751 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=10 ttl=62 time=3424 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=11 ttl=62 time=913 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=34 ttl=63 time=581 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=35 ttl=63 time=2105 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=51 ttl=62 time=907 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=52 ttl=62 time=3025 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=59 ttl=62 time=3510 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=60 ttl=62 time=739 ms
+64 bytes from aaaa::212:7403:3:303: icmp_seq=95 ttl=62 time=865 ms
+
+--- aaaa::212:7403:3:303 ping statistics ---
+200 packets transmitted, 10 received, 95% packet loss, time 995244ms
+rtt min/avg/max/mdev = 581.418/1882.505/3510.890/1142.789 ms

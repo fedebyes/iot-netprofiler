@@ -1,0 +1,35 @@
+PING aaaa::212:740a:a:a0a(aaaa::212:740a:a:a0a) 56 data bytes
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=4 ttl=60 time=2753 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=8 ttl=60 time=1410 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=14 ttl=60 time=3052 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=22 ttl=60 time=1509 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=23 ttl=60 time=1637 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=26 ttl=60 time=1113 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=38 ttl=60 time=1856 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=42 ttl=60 time=1650 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=44 ttl=60 time=1900 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=45 ttl=60 time=2006 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=46 ttl=60 time=2175 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=47 ttl=60 time=1049 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=49 ttl=60 time=2576 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=50 ttl=60 time=3738 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=52 ttl=60 time=1914 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=56 ttl=60 time=3691 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=70 ttl=60 time=2229 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=71 ttl=60 time=8720 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=74 ttl=60 time=4623 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=75 ttl=60 time=2023 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=80 ttl=60 time=1530 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=105 ttl=60 time=1043 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=106 ttl=60 time=5578 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=113 ttl=60 time=2177 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=119 ttl=60 time=1222 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=120 ttl=60 time=1461 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=121 ttl=60 time=2360 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=122 ttl=60 time=1585 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=124 ttl=60 time=4485 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=125 ttl=60 time=1168 ms
+
+--- aaaa::212:740a:a:a0a ping statistics ---
+200 packets transmitted, 30 received, 85% packet loss, time 995663ms
+rtt min/avg/max/mdev = 1043.281/2474.881/8720.626/1611.044 ms, pipe 2

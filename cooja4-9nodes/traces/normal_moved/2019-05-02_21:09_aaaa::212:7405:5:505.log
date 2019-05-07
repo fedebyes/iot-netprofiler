@@ -1,0 +1,13 @@
+PING aaaa::212:7405:5:505(aaaa::212:7405:5:505) 56 data bytes
+64 bytes from aaaa::212:7405:5:505: icmp_seq=8 ttl=61 time=3342 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=16 ttl=61 time=4200 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=42 ttl=61 time=2400 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=43 ttl=61 time=1499 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=57 ttl=61 time=1065 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=58 ttl=61 time=1849 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=60 ttl=61 time=904 ms
+64 bytes from aaaa::212:7405:5:505: icmp_seq=69 ttl=61 time=2771 ms
+
+--- aaaa::212:7405:5:505 ping statistics ---
+200 packets transmitted, 8 received, 96% packet loss, time 995430ms
+rtt min/avg/max/mdev = 904.803/2254.181/4200.462/1073.910 ms

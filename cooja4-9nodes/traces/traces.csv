@@ -1,4 +1,10 @@
-,directory,case,case_accuracy,case_accuracy2
-0,traces/normal,rnd__2019-05-01_13:41_,normal,normal
-1,traces/normal,normal__2019-05-01_13:43_,normal,normal
-2,traces/normal,rnd__2019-05-01_01:07_,normal,normal
+directory,case,case_accuracy,case_accuracy2
+traces/normal,rnd__2019-05-01_13:41_,normal,normal
+traces/normal,normal__2019-05-01_13:43_,normal,normal
+traces/normal,rnd__2019-05-01_01:07_,normal,normal
+traces/normal,normal_2019-05-03_12:56_,normal,normal
+traces/1bh-5,1bh-5_2019-05-03_00:32_,abnormal,BH
+traces/1bh-5,1bh-5_2019-05-03_00:48_,abnormal,BH
+traces/prova-far-nodes,prova_2019-05-03_01:07_,normal,normal
+traces/prova-far-nodes,prova_2019-05-03_01:08_,normal,normal
+traces/prova-far-nodes,prova_2019-05-03_12:39_,normal,normal
