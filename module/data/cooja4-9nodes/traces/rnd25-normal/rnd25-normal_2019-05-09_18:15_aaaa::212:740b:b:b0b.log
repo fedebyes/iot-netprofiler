@@ -1,0 +1,11 @@
+PING aaaa::212:740b:b:b0b(aaaa::212:740b:b:b0b) 56 data bytes
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=111 ttl=63 time=2634 ms
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=117 ttl=63 time=4040 ms
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=122 ttl=63 time=35639 ms
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=150 ttl=63 time=1250 ms
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=151 ttl=63 time=6072 ms
+64 bytes from aaaa::212:740b:b:b0b: icmp_seq=165 ttl=63 time=1310 ms
+
+--- aaaa::212:740b:b:b0b ping statistics ---
+200 packets transmitted, 6 received, 97% packet loss, time 995096ms
+rtt min/avg/max/mdev = 1250.254/8491.264/35639.719/12254.261 ms, pipe 8

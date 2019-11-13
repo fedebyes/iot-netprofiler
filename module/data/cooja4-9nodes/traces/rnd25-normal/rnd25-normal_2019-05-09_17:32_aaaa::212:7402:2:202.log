@@ -1,0 +1,31 @@
+PING aaaa::212:7402:2:202(aaaa::212:7402:2:202) 56 data bytes
+64 bytes from aaaa::212:7402:2:202: icmp_seq=57 ttl=63 time=9882 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=59 ttl=63 time=18105 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=60 ttl=63 time=13215 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=64 ttl=63 time=6758 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=67 ttl=63 time=3848 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=70 ttl=63 time=4168 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=72 ttl=63 time=3075 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=73 ttl=63 time=943 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=75 ttl=63 time=3989 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=76 ttl=63 time=4178 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=80 ttl=63 time=2245 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=81 ttl=63 time=1764 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=83 ttl=63 time=10734 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=86 ttl=63 time=4235 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=89 ttl=63 time=1146 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=90 ttl=63 time=598 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=91 ttl=63 time=942 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=92 ttl=63 time=798 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=94 ttl=63 time=1910 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=96 ttl=63 time=645 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=98 ttl=63 time=1411 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=104 ttl=63 time=13526 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=106 ttl=63 time=13254 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=113 ttl=63 time=989 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=114 ttl=63 time=2392 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=115 ttl=63 time=1110 ms
+
+--- aaaa::212:7402:2:202 ping statistics ---
+200 packets transmitted, 26 received, 87% packet loss, time 995748ms
+rtt min/avg/max/mdev = 598.577/4841.240/18105.286/4920.401 ms, pipe 4

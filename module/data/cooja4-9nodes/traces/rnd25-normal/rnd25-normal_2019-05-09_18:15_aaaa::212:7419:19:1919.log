@@ -1,0 +1,13 @@
+PING aaaa::212:7419:19:1919(aaaa::212:7419:19:1919) 56 data bytes
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=46 ttl=63 time=6733 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=51 ttl=63 time=3774 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=129 ttl=63 time=2210 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=135 ttl=63 time=6067 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=154 ttl=63 time=13660 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=159 ttl=63 time=3930 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=163 ttl=63 time=13065 ms
+64 bytes from aaaa::212:7419:19:1919: icmp_seq=169 ttl=63 time=2930 ms
+
+--- aaaa::212:7419:19:1919 ping statistics ---
+200 packets transmitted, 8 received, 96% packet loss, time 995083ms
+rtt min/avg/max/mdev = 2210.033/6546.414/13660.977/4180.107 ms, pipe 3

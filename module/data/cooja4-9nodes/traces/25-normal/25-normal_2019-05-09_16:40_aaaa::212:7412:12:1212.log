@@ -1,0 +1,3 @@
+PING aaaa::212:7412:12:1212(aaaa::212:7412:12:1212) 56 data bytes
+64 bytes from aaaa::212:7412:12:1212: icmp_seq=3 ttl=62 time=18519 ms
+64 bytes from aaaa::212:7412:12:1212: icmp_seq=32 ttl=62 time=12125 ms

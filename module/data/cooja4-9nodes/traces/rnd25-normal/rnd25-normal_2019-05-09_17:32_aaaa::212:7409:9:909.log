@@ -1,0 +1,37 @@
+PING aaaa::212:7409:9:909(aaaa::212:7409:9:909) 56 data bytes
+64 bytes from aaaa::212:7409:9:909: icmp_seq=2 ttl=63 time=1362 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=4 ttl=63 time=1734 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=7 ttl=63 time=960 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=11 ttl=63 time=2410 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=12 ttl=63 time=893 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=27 ttl=63 time=3213 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=28 ttl=63 time=1356 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=29 ttl=63 time=2003 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=36 ttl=63 time=1488 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=38 ttl=63 time=2179 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=40 ttl=63 time=706 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=41 ttl=63 time=2379 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=43 ttl=63 time=1609 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=74 ttl=62 time=5954 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=80 ttl=62 time=4768 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=131 ttl=63 time=6624 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=137 ttl=63 time=1697 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=147 ttl=63 time=1336 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=150 ttl=63 time=3553 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=156 ttl=63 time=1796 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=157 ttl=63 time=1274 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=161 ttl=63 time=1972 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=177 ttl=63 time=1116 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=179 ttl=63 time=1765 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=182 ttl=63 time=1270 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=189 ttl=63 time=1356 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=192 ttl=63 time=511 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=194 ttl=63 time=2462 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=195 ttl=63 time=1545 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=198 ttl=63 time=3429 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=199 ttl=63 time=3183 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=200 ttl=63 time=6333 ms
+
+--- aaaa::212:7409:9:909 ping statistics ---
+200 packets transmitted, 32 received, 84% packet loss, time 996037ms
+rtt min/avg/max/mdev = 511.168/2320.403/6624.687/1567.898 ms, pipe 2

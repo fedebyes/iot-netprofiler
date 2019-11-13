@@ -1,0 +1,32 @@
+PING aaaa::212:7407:7:707(aaaa::212:7407:7:707) 56 data bytes
+64 bytes from aaaa::212:7407:7:707: icmp_seq=3 ttl=62 time=5644 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=12 ttl=62 time=848 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=13 ttl=62 time=1829 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=14 ttl=62 time=1793 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=18 ttl=62 time=6017 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=21 ttl=62 time=2066 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=22 ttl=62 time=4728 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=24 ttl=62 time=2724 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=27 ttl=62 time=3200 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=29 ttl=62 time=762 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=30 ttl=62 time=4200 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=31 ttl=62 time=2625 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=32 ttl=62 time=3908 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=33 ttl=62 time=1000 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=35 ttl=62 time=905 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=37 ttl=62 time=754 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=38 ttl=62 time=586 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=40 ttl=62 time=841 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=44 ttl=62 time=3881 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=45 ttl=62 time=1555 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=69 ttl=62 time=11684 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=72 ttl=62 time=1554 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=75 ttl=62 time=2580 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=76 ttl=62 time=5333 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=79 ttl=62 time=1146 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=85 ttl=62 time=1490 ms
+64 bytes from aaaa::212:7407:7:707: icmp_seq=88 ttl=62 time=2432 ms
+
+--- aaaa::212:7407:7:707 ping statistics ---
+200 packets transmitted, 27 received, 86% packet loss, time 995860ms
+rtt min/avg/max/mdev = 586.080/2818.514/11684.649/2357.019 ms, pipe 3

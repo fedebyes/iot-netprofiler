@@ -1,0 +1,9 @@
+PING aaaa::212:740a:a:a0a(aaaa::212:740a:a:a0a) 56 data bytes
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=53 ttl=63 time=1210 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=80 ttl=63 time=330 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=118 ttl=63 time=1020 ms
+64 bytes from aaaa::212:740a:a:a0a: icmp_seq=174 ttl=63 time=1872 ms
+
+--- aaaa::212:740a:a:a0a ping statistics ---
+200 packets transmitted, 4 received, 98% packet loss, time 995087ms
+rtt min/avg/max/mdev = 330.053/1108.169/1872.280/549.417 ms

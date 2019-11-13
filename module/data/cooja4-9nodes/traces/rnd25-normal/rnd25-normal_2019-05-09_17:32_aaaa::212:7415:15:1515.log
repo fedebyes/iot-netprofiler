@@ -1,0 +1,32 @@
+PING aaaa::212:7415:15:1515(aaaa::212:7415:15:1515) 56 data bytes
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=14 ttl=62 time=3431 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=15 ttl=62 time=9518 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=16 ttl=62 time=4631 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=23 ttl=62 time=3282 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=24 ttl=62 time=1306 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=25 ttl=62 time=2272 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=26 ttl=62 time=903 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=27 ttl=62 time=5457 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=29 ttl=62 time=1783 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=39 ttl=62 time=4860 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=84 ttl=62 time=2574 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=85 ttl=62 time=2821 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=106 ttl=62 time=5573 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=110 ttl=62 time=2431 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=132 ttl=62 time=680 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=140 ttl=62 time=3685 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=142 ttl=62 time=1235 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=152 ttl=62 time=1877 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=172 ttl=62 time=4205 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=183 ttl=62 time=1500 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=185 ttl=62 time=2382 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=188 ttl=62 time=804 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=190 ttl=62 time=3568 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=194 ttl=62 time=1191 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=197 ttl=62 time=1750 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=199 ttl=62 time=3357 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=200 ttl=62 time=1249 ms
+
+--- aaaa::212:7415:15:1515 ping statistics ---
+200 packets transmitted, 27 received, 86% packet loss, time 995918ms
+rtt min/avg/max/mdev = 680.137/2901.549/9518.893/1910.731 ms, pipe 2

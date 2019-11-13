@@ -1,0 +1,32 @@
+PING aaaa::212:741a:1a:1a1a(aaaa::212:741a:1a:1a1a) 56 data bytes
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=25 ttl=63 time=3784 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=30 ttl=63 time=4930 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=40 ttl=63 time=9937 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=49 ttl=63 time=519 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=50 ttl=63 time=4674 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=54 ttl=63 time=1236 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=67 ttl=63 time=9629 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=74 ttl=63 time=5610 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=80 ttl=63 time=55253 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=107 ttl=63 time=1077 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=109 ttl=63 time=1150 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=110 ttl=63 time=661 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=113 ttl=63 time=2740 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=115 ttl=63 time=5903 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=129 ttl=63 time=9619 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=133 ttl=63 time=3047 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=136 ttl=63 time=2329 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=137 ttl=63 time=1389 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=140 ttl=63 time=9444 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=142 ttl=63 time=3597 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=143 ttl=63 time=12265 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=148 ttl=63 time=15210 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=149 ttl=63 time=10919 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=151 ttl=63 time=11188 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=152 ttl=63 time=6276 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=158 ttl=63 time=2233 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=159 ttl=63 time=1581 ms
+
+--- aaaa::212:741a:1a:1a1a ping statistics ---
+200 packets transmitted, 27 received, 86% packet loss, time 995191ms
+rtt min/avg/max/mdev = 519.649/7267.189/55253.881/10259.611 ms, pipe 12

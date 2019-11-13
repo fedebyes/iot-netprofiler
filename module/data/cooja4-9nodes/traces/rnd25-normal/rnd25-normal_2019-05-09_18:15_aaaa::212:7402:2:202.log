@@ -1,0 +1,13 @@
+PING aaaa::212:7402:2:202(aaaa::212:7402:2:202) 56 data bytes
+64 bytes from aaaa::212:7402:2:202: icmp_seq=75 ttl=63 time=17401 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=138 ttl=63 time=2540 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=161 ttl=63 time=7547 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=162 ttl=63 time=2630 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=167 ttl=63 time=6269 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=175 ttl=63 time=4584 ms
+64 bytes from aaaa::212:7402:2:202: icmp_seq=175 ttl=63 time=4696 ms (DUP!)
+64 bytes from aaaa::212:7402:2:202: icmp_seq=176 ttl=63 time=3280 ms
+
+--- aaaa::212:7402:2:202 ping statistics ---
+200 packets transmitted, 7 received, +1 duplicates, 96% packet loss, time 995138ms
+rtt min/avg/max/mdev = 2540.904/6118.894/17401.745/4565.788 ms, pipe 4

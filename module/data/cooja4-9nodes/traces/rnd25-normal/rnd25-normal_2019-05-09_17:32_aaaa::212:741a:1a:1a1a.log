@@ -1,0 +1,44 @@
+PING aaaa::212:741a:1a:1a1a(aaaa::212:741a:1a:1a1a) 56 data bytes
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=12 ttl=63 time=909 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=14 ttl=63 time=440 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=16 ttl=63 time=1628 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=22 ttl=63 time=792 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=24 ttl=63 time=910 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=27 ttl=63 time=1584 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=33 ttl=63 time=539 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=39 ttl=63 time=1640 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=40 ttl=63 time=448 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=59 ttl=63 time=5521 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=71 ttl=63 time=540 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=72 ttl=63 time=513 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=84 ttl=63 time=541 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=85 ttl=63 time=456 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=104 ttl=63 time=10976 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=115 ttl=63 time=4594 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=122 ttl=63 time=13276 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=126 ttl=63 time=10790 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=131 ttl=63 time=1436 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=135 ttl=63 time=649 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=137 ttl=63 time=427 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=151 ttl=63 time=829 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=152 ttl=63 time=768 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=171 ttl=63 time=1495 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=176 ttl=63 time=1637 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=178 ttl=63 time=2880 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=181 ttl=63 time=1517 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=183 ttl=63 time=2263 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=184 ttl=63 time=4221 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=185 ttl=63 time=1386 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=187 ttl=63 time=1306 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=188 ttl=63 time=676 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=189 ttl=63 time=4916 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=190 ttl=63 time=946 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=192 ttl=63 time=3681 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=194 ttl=63 time=1311 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=198 ttl=63 time=558 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=199 ttl=63 time=1669 ms
+64 bytes from aaaa::212:741a:1a:1a1a: icmp_seq=200 ttl=63 time=446 ms
+
+--- aaaa::212:741a:1a:1a1a ping statistics ---
+200 packets transmitted, 39 received, 80% packet loss, time 995961ms
+rtt min/avg/max/mdev = 427.049/2336.748/13276.868/3012.120 ms, pipe 3

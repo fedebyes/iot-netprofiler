@@ -1,0 +1,7 @@
+PING aaaa::212:7409:9:909(aaaa::212:7409:9:909) 56 data bytes
+64 bytes from aaaa::212:7409:9:909: icmp_seq=36 ttl=63 time=25305 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=60 ttl=63 time=14209 ms
+
+--- aaaa::212:7409:9:909 ping statistics ---
+200 packets transmitted, 2 received, 99% packet loss, time 995090ms
+rtt min/avg/max/mdev = 14209.774/19757.824/25305.874/5548.050 ms, pipe 6

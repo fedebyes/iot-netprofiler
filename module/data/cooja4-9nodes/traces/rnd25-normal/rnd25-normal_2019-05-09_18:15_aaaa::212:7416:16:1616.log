@@ -1,0 +1,18 @@
+PING aaaa::212:7416:16:1616(aaaa::212:7416:16:1616) 56 data bytes
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=31 ttl=63 time=7551 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=50 ttl=63 time=1210 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=56 ttl=63 time=1712 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=79 ttl=63 time=4147 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=106 ttl=62 time=8139 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=110 ttl=62 time=3410 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=139 ttl=62 time=7030 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=140 ttl=62 time=3407 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=142 ttl=62 time=2075 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=157 ttl=62 time=5826 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=161 ttl=62 time=30138 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=174 ttl=63 time=13419 ms
+64 bytes from aaaa::212:7416:16:1616: icmp_seq=198 ttl=63 time=2001 ms
+
+--- aaaa::212:7416:16:1616 ping statistics ---
+200 packets transmitted, 13 received, 93% packet loss, time 995178ms
+rtt min/avg/max/mdev = 1210.016/6928.447/30138.502/7463.551 ms, pipe 7

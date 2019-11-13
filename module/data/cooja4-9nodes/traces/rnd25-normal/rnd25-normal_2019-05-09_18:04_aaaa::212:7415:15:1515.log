@@ -1,0 +1,24 @@
+PING aaaa::212:7415:15:1515(aaaa::212:7415:15:1515) 56 data bytes
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=1 ttl=62 time=3774 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=5 ttl=62 time=1278 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=6 ttl=62 time=2956 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=8 ttl=62 time=769 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=9 ttl=62 time=869 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=10 ttl=62 time=1113 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=12 ttl=62 time=1821 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=13 ttl=62 time=1472 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=15 ttl=62 time=1149 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=16 ttl=62 time=697 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=17 ttl=62 time=683 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=22 ttl=62 time=1256 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=23 ttl=62 time=1333 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=24 ttl=62 time=5676 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=42 ttl=62 time=2212 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=45 ttl=62 time=2707 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=49 ttl=62 time=1266 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=50 ttl=62 time=3258 ms
+64 bytes from aaaa::212:7415:15:1515: icmp_seq=57 ttl=62 time=863 ms
+
+--- aaaa::212:7415:15:1515 ping statistics ---
+200 packets transmitted, 19 received, 90% packet loss, time 995326ms
+rtt min/avg/max/mdev = 683.115/1850.672/5676.240/1270.630 ms, pipe 2

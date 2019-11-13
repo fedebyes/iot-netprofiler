@@ -1,0 +1,14 @@
+PING aaaa::212:7409:9:909(aaaa::212:7409:9:909) 56 data bytes
+64 bytes from aaaa::212:7409:9:909: icmp_seq=13 ttl=63 time=2496 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=16 ttl=63 time=2529 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=21 ttl=63 time=1116 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=46 ttl=63 time=1513 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=49 ttl=63 time=4329 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=166 ttl=63 time=16860 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=169 ttl=63 time=6460 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=181 ttl=63 time=640 ms
+64 bytes from aaaa::212:7409:9:909: icmp_seq=199 ttl=63 time=8669 ms
+
+--- aaaa::212:7409:9:909 ping statistics ---
+200 packets transmitted, 9 received, 95% packet loss, time 995245ms
+rtt min/avg/max/mdev = 640.002/4957.279/16860.369/4891.302 ms, pipe 4

@@ -1,0 +1,15 @@
+PING aaaa::212:740d:d:d0d(aaaa::212:740d:d:d0d) 56 data bytes
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=14 ttl=62 time=1980 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=23 ttl=62 time=4516 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=31 ttl=62 time=1250 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=146 ttl=62 time=1007 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=169 ttl=62 time=12855 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=172 ttl=62 time=8983 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=175 ttl=62 time=3558 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=189 ttl=62 time=2658 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=196 ttl=62 time=1979 ms
+64 bytes from aaaa::212:740d:d:d0d: icmp_seq=200 ttl=62 time=3249 ms
+
+--- aaaa::212:740d:d:d0d ping statistics ---
+200 packets transmitted, 10 received, 95% packet loss, time 995914ms
+rtt min/avg/max/mdev = 1007.587/4203.927/12855.429/3610.237 ms, pipe 3

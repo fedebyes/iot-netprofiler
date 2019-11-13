@@ -1,0 +1,17 @@
+site_name: "RPL Attacks Framework"
+repo_url: https://github.com/dhondta/rpl-attacks
+site_author: dhondta
+docs_dir: doc
+pages:
+  - Introduction: index.md
+  - Installation: install.md
+  - Usage: usage.md
+  - Commands: commands.md
+  - Campaigns: campaigns.md
+  - Building Blocks: building-blocks.md
+  - Reporting: report.md
+extra:
+  mailto: alexandre.dhondt@gmail.com
+theme: readthedocs
+markdown_extensions:
+  - admonition

@@ -1,0 +1,6 @@
+PING aaaa::212:740e:e:e0e(aaaa::212:740e:e:e0e) 56 data bytes
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=179 ttl=63 time=77524 ms
+
+--- aaaa::212:740e:e:e0e ping statistics ---
+200 packets transmitted, 1 received, 99% packet loss, time 995056ms
+rtt min/avg/max/mdev = 77524.506/77524.506/77524.506/0.000 ms, pipe 16

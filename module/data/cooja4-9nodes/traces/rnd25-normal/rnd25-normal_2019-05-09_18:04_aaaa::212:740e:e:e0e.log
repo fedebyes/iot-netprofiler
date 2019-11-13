@@ -1,0 +1,16 @@
+PING aaaa::212:740e:e:e0e(aaaa::212:740e:e:e0e) 56 data bytes
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=1 ttl=63 time=1262 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=2 ttl=63 time=669 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=7 ttl=63 time=2046 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=9 ttl=63 time=396 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=13 ttl=63 time=697 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=20 ttl=63 time=698 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=24 ttl=63 time=903 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=25 ttl=63 time=1412 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=55 ttl=63 time=369 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=57 ttl=63 time=529 ms
+64 bytes from aaaa::212:740e:e:e0e: icmp_seq=145 ttl=63 time=27249 ms
+
+--- aaaa::212:740e:e:e0e ping statistics ---
+200 packets transmitted, 11 received, 94% packet loss, time 995221ms
+rtt min/avg/max/mdev = 369.981/3294.308/27249.720/7590.440 ms, pipe 6

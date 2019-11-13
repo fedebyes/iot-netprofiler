@@ -1,0 +1,4 @@
+#!/bin/bash
+
+logfile="_$(date +%F_%H:%M)_"
+echo $logfile
